@@ -1,0 +1,14 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "pratice jest test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Subin Shrestha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
